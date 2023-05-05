@@ -1,0 +1,143 @@
+@font-face {
+    font-family: "a1";
+    src: url(../fonts/KaushanScript-Regular.otf) format("opentype");
+}
+@font-face {
+    font-family: "a2";
+    src: url(../fonts/SourceCodePro-Black.otf) format("opentype");
+}
+@font-face {
+    font-family: "a3";
+    src: url(../fonts/Nobile-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a4";
+    src: url(../fonts/Cantarell-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a5";
+    src: url(../fonts/Chunk\ Five\ Print.otf) format("opentype");
+}
+@font-face {
+    font-family: "a6";
+    src: url(../fonts/PTC55F.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a7";
+    src: url(../fonts/SourceSansPro-Black.otf) format("opentype");
+}
+@font-face {
+    font-family: "a8";
+    src: url(../fonts/AlexBrush-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a9";
+    src: url(../fonts/Rubik-Black.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a10";
+    src: url(../fonts/Amble-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a11";
+    src: url(../fonts/1942.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a12";
+    src: url(../fonts/AdhesiveNrSevenBanners.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a13";
+    src: url(../fonts/After_Shok.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a14";
+    src: url(../fonts/BEARPAW_.ttf) format("truetype");
+}
+@font-face {
+    font-family: "a15";
+    src: url(../fonts/DESTROY_.ttf) format("truetype");
+}
+article{
+    border-bottom: 1px solid black;
+}
+.a1{
+    font-family: 'a1', 'Courier New', Courier, monospace;
+    color: red;
+}
+.a2{
+    font-family: 'a2', 'Courier New', Courier, monospace;
+    color: blue;
+}
+.a3{
+    font-family: 'a3', 'Courier New', Courier, monospace;
+    color: green;
+}
+.a4{
+    font-family: 'a4', 'Courier New', Courier, monospace;
+    color: orange;
+}
+.a5{
+    font-family: 'a5', 'Courier New', Courier, monospace;
+    color: purple;
+}
+.a6{
+    font-family: 'a6', 'Courier New', Courier, monospace;
+    color: yellow;
+}
+.a7{
+    font-family: 'a7', 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+.a8{
+    font-family: 'a8', 'Courier New', Courier, monospace;
+    color: forestgreen;
+}
+.a9{
+    font-family: 'a9', 'Courier New', Courier, monospace;
+    color: gold;
+}
+.a10{
+    font-family: 'a10', 'Courier New', Courier, monospace;
+    color: grey;
+}
+.a11{
+    font-family: 'a11', 'Courier New', Courier, monospace;
+    color: hotpink;
+}
+.a12{
+    font-family: 'a12', 'Courier New', Courier, monospace;
+    color: indianred;
+}
+.a13{
+    font-family: 'a13', 'Courier New', Courier, monospace;
+    color: sandybrown;
+}
+.a14{
+    font-family: 'a14', 'Courier New', Courier, monospace;
+    color: darkslategray;
+}
+.a15{
+    font-family: 'a15', 'Courier New', Courier, monospace;
+    color: darkkhaki;
+}
+.a16{
+    font-family: 'a6', 'Courier New', Courier, monospace;
+    color: indigo;
+}
+.a17{
+    font-family: 'a9', 'Courier New', Courier, monospace;
+    color: silver;
+}
+.a18{
+    font-family: 'a13', 'Courier New', Courier, monospace;
+    color: green;
+}
+.a19{
+    font-family: 'a1', 'Courier New', Courier, monospace;
+    color: blue;
+}
+.a20{
+    font-family: 'a8', 'Courier New', Courier, monospace;
+    color: salmon;
+}
